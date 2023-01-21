@@ -14,7 +14,7 @@
 
 ## About The Project
 
-<img src="/images/screenshot.png?raw=true" width="50%" height="50%">
+<img src="/images/Screenshot1.png?raw=true" width="50%" height="50%">
 
 
 ## Getting Started

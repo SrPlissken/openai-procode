@@ -6,8 +6,7 @@
     A Client-Server App using OpenAI API
     <br/>
     <br/>
-    <a href="https://github.com/SrPlissken/openai-procode">View Demo</a>
-    .
+    <a href="https://openai-procode.vercel.app/">View Demo</a>
   </p>
 </p>
 
@@ -15,7 +14,7 @@
 
 ## About The Project
 
-![Screen Shot](images/Screenshot1.png)
+<img src="/images/screenshot.png?raw=true" width="50%" height="50%">
 
 
 ## Getting Started

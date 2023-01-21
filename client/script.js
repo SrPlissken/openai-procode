@@ -3,6 +3,7 @@ import user from './assets/user.svg';
 
 const form = document.querySelector('form');
 const chatContainer = document.querySelector ('#chat_container');
+const serverEndPoint = 'https://opeanai-procode.onrender.com';
 
 let loadInterval;
 
@@ -74,7 +75,7 @@ const handleSubmit = async (e) => {
   loader(messageDiv);
 
   // fetch data from server -› bot's response
-  const response = await fetch('https://opeanai-procode.onrender.com', {
+  const response = await fetch(serverEndPoint, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
